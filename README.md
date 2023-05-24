@@ -1,4 +1,4 @@
-# Happiness_Project by ELina Wells & Edwina Mambou
+# Happiness_Project by Elina Wells & Edwina Mambou
 
 R Markdown pdf: 
 [Happiness Programming Project.pdf](https://github.com/edwinamambou/Happiness_Project/files/11551360/Happiness.Programming.Project.pdf)
